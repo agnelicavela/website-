@@ -1,0 +1,163 @@
+body {
+    background-color: #83BD75;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li { 
+    list-style: none; 
+     
+} 
+.header { 
+    background-color: #83BD75; 
+    height: 100px; 
+} 
+ 
+.logogo{
+    width: 80px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+
+.header-logo { 
+    font-size: 47px; 
+    float: left; 
+    padding-top: 5px; 
+} 
+ 
+.header-list li{ 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #F5F0BB;
+    font-size: 25px;
+    float: right; 
+    padding: 33px 20px; 
+} 
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 1000px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.top-wrapper {
+    padding: 150px 0 150px 0;
+    background-image: url(hai.jpg);
+    background-size: cover;
+    color: #F5F0BB;
+    text-align: center;
+}
+
+.top-wrapper h1 {
+    font-size: 50px;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.top-wrapper p {
+    opacity: 0,7;
+    margin-bottom: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0,5;
+    border-radius: 18px;
+    margin-top: 50px;
+}
+
+.btn:hover {
+    opacity: 0,5;
+}
+
+.signup {
+    background-color: rgb(152, 16, 16);
+}
+
+.facebook {
+    background-color: rgb(55, 55, 150);
+    margin-right: 10px;
+}
+
+.twitter {
+    background-color: #47a6cc;
+}
+
+.section-tittle{ 
+    border-bottom: 5px solid #F5F0BB; /*batas*/ 
+} 
+ 
+.content{ /*konten*/ 
+    width: 1200px; 
+    height: 10px; 
+    text-align: justify; 
+    margin-top: 400px;
+    margin: 50px;
+    color: rgb(74, 39, 17);
+    font-weight: bold;
+} 
+ 
+.greeting { 
+    font-size: 36px; 
+} 
+ 
+.kolom-koran{  
+    column-count: 3; 
+} 
+ 
+.contact-form{ 
+    padding: 100px;
+    margin-top: 100px;
+} 
+ 
+input,textarea{ 
+    width: 400px; 
+    margin-top: 10px; 
+    margin-bottom: 30px; 
+    padding: 20px; 
+    font-size: 18px; 
+} 
+ 
+input,textarea{ 
+    border: 1px solid #0f120e; 
+} 
+ 
+.submit-contact{ 
+    background-color: #dde8da; 
+}
+
+.footer { 
+    background-color: rgb(17, 83, 39); 
+    height: 200px; 
+    padding: 10px 20px;
+} 
+
+.logobener{
+    width: 150px;
+    float: left;
+    margin-top: 30px;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li{
+    color: #F5F0BB;
+    padding-bottom: 20px;
+}
